@@ -45,5 +45,5 @@ Aplikasi ini dibuat sebagai proyek UAS Pemrograman Berbasis Web dengan tujuan me
 ## Developer
 
 Muhammad Razi
-Universitas Muhammadiyah Riau
-Program Studi Teknik Informatika
+Universitas Syiah kuala
+Program Studi Informatika
